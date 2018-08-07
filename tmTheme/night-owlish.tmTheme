@@ -1042,6 +1042,8 @@
 	<string>EB0EC8F4-467B-46D0-8AE9-88B44F4D73B4</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.night_owlish</string>
 	<key>author</key>
 	<string>Mara</string>
 	<key>comment</key>
