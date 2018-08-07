@@ -39,6 +39,10 @@
 				<string>#010E17</string>
 				<key>selection</key>
 				<string>#5f7e9779</string>
+				<key>guide</key>
+				<string>#5e81ce52</string>
+				<key>selectionBorder</key>
+				<string>#122d42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,6 +234,54 @@
 			<dict>
 				<key>foreground</key>
 				<string>#d9f5dd</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Template Strings</string>
+			<key>scope</key>
+			<string>string.template meta.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d3423e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Backtics(``) in Template Strings</string>
+			<key>scope</key>
+			<string>string.template punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d6deeb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Italics</string>
+			<key>scope</key>
+			<string>italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#c792ea</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bold</string>
+			<key>scope</key>
+			<string>bold</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#addb67</string>
 			</dict>
 		</dict>
 		<dict>
