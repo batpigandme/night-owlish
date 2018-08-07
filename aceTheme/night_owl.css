@@ -1,0 +1,157 @@
+/* generated using ace editor node tmtheme.js */
+/* see: https://github.com/ajaxorg/ace/wiki/Importing-.tmtheme-and-.tmlanguage-Files-into-Ace */
+.ace-night-owl .ace_gutter {
+  background: #011627;
+  color: rgb(108,122,137)
+}
+
+.ace-night-owl .ace_print-margin {
+  width: 1px;
+  background: rgba(95, 126, 151, 0.47)
+}
+
+.ace-night-owl {
+  background-color: #011627;
+  color: #d6deeb
+}
+
+.ace-night-owl .ace_cursor {
+  color: #80a4c2
+}
+
+.ace-night-owl .ace_marker-layer .ace_selection {
+  background: rgba(95, 126, 151, 0.47)
+}
+
+.ace-night-owl.ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px 0px #011627;
+  border-radius: 2px
+}
+
+.ace-night-owl .ace_marker-layer .ace_step {
+  background: rgb(198, 219, 174)
+}
+
+.ace-night-owl .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #2e2040
+}
+
+.ace-night-owl .ace_marker-layer .ace_active-line {
+  background: #010E17
+}
+
+.ace-night-owl .ace_gutter-active-line {
+  background-color: #010E17
+}
+
+.ace-night-owl .ace_marker-layer .ace_selected-word {
+  border: 1px solid rgba(95, 126, 151, 0.47)
+}
+
+.ace-night-owl .ace_fold {
+  background-color: #82AAFF;
+  border-color: #d6deeb
+}
+
+.ace-night-owl .ace_keyword {
+  color: #c792ea
+}
+
+.ace-night-owl .ace_keyword.ace_operator {
+  color: #7fdbca
+}
+
+.ace-night-owl .ace_keyword.ace_other.ace_unit {
+  color: #FFEB95
+}
+
+.ace-night-owl .ace_constant.ace_language {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_constant.ace_numeric {
+  color: #F78C6C
+}
+
+.ace-night-owl .ace_constant.ace_character {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_constant.ace_character.ace_escape {
+  color: #F78C6C
+}
+
+.ace-night-owl .ace_constant.ace_other {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_support.ace_function {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_support.ace_constant {
+  color: #7fdbca
+}
+
+.ace-night-owl .ace_support.ace_class {
+  color: #addb67
+}
+
+.ace-night-owl .ace_support.ace_type {
+  color: #addb67
+}
+
+.ace-night-owl .ace_storage {
+  color: #c792ea
+}
+
+.ace-night-owl .ace_storage.ace_type {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_invalid {
+  color: #ffffff;
+  background-color: #ff2c83
+}
+
+.ace-night-owl .ace_invalid.ace_deprecated {
+  color: #ffffff;
+  background-color: #d3423e
+}
+
+.ace-night-owl .ace_string {
+  color: #addb67
+}
+
+.ace-night-owl .ace_string.ace_regexp {
+  color: #5ca7e4
+}
+
+.ace-night-owl .ace_comment {
+  color: #637777
+}
+
+.ace-night-owl .ace_variable {
+  color: #addb67
+}
+
+.ace-night-owl .ace_variable.ace_parameter {
+  color: #d7dbe0
+}
+
+.ace-night-owl .ace_meta.ace_selector {
+  color: #c792ea
+}
+
+.ace-night-owl .ace_entity.ace_other.ace_attribute-name {
+  color: #addb67
+}
+
+.ace-night-owl .ace_entity.ace_name.ace_function {
+  color: #82AAFF
+}
+
+.ace-night-owl .ace_entity.ace_name.ace_tag {
+  color: #7fdbca
+}
