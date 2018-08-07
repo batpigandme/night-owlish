@@ -796,6 +796,61 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JSON Property Names</string>
+			<key>scope</key>
+			<string>support.type.property-name.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#addb67</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Support Constants</string>
+			<key>scope</key>
+			<string>support.constant.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#addb67</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Property values (string)</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.value.json string.quoted.double</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c789d6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Strings in JSON values</string>
+			<key>scope</key>
+			<string>string.quoted.double.json punctuation.definition.string.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#80CBC4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Specific JSON Property values like null</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.json meta.structure.dictionary.value constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff5874</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ruby Variables</string>
 			<key>scope</key>
 			<string>variable.other.ruby</string>
