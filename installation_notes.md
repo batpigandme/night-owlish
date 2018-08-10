@@ -2,7 +2,7 @@
 
 To install custom themes in RStudio, you must have the [daily build](https://dailies.rstudio.com/) installed. 
 
-With the daily build, you can import the [tmTheme file](https://github.com/batpigandme/night-owlish/blob/master/tmTheme/night-owlish.tmTheme) by going to `Preferences >> Appearance >> Add` (see gif, below).
+With the daily build, you can import the [tmTheme file](https://github.com/batpigandme/night-owlish/blob/master/tmTheme/night-owlish.tmTheme) by going to `Preferences >> Appearance >> Add` (see gif, below — night-owl not actually shown).
 
 ![Importing custom themes in RStudio](https://i.imgur.com/0801DLK.gif)
 
