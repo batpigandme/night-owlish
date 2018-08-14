@@ -12,5 +12,9 @@ A tmTheme adaptation† of [@sdras](https://github.com/sdras/)' [Night Owl VS Co
 
 ![](https://i.imgur.com/KCW7dRa.png)
 
+Syntax highlighting in R:
+
+![night owlish syntax highlighting](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rstudio-highlighting.png)
+
 
 † _Full disclosure: I don't actually use TextMate — this was but a means to an end, as RStudio (which uses Ace) allows you to import tmThemes. If it looks terrible, and you have fixes please submit a PR! 🙏_
