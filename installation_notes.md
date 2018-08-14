@@ -10,7 +10,9 @@ However, I've added several improvements specific to the Ace and rstheme formats
 
 There, you'll find the imported theme as `night-owlish.rstheme`. You can either copy and paste the contents, or the [`night-owlish.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file itself (the one in this repo) to enable the super-special-just-for-RStudio-beautified version. 💅 
 
-**_Last updated: 2018-08-10_**
+![night owlish in rstudio](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rstudio-full.png)
+
+**_Last updated: 2018-08-14_**
 
 ---
 \* Unofficial guide, YMMV.
