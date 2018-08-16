@@ -710,7 +710,7 @@
 }
 
 .ace_entity.ace_name.ace_tag, .ace_entity.ace_other.ace_attribute-name, .ace_meta.ace_tag, .ace_string.ace_regexp, .ace_variable {
-  color: #5ca7e4;
+  color: #ff5874;
 }
 
 .ace_layer {
