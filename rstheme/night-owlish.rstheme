@@ -93,6 +93,8 @@
 	color: #ffffff;
   background-color: #d3423e;
 }  
+.ace_heading,
+.ace_markup.ace_heading,
 .ace_string {
 	color: #addb67;
 }  
