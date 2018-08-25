@@ -719,17 +719,17 @@
    z-index: 3;
 }
 
-.ace_active-line {
-  background: rgba(1, 22, 39, 1);
+.ace_marker-layer.ace_active-line {
+  background: #010E17;
   z-index: 2;
   position: absolute;
 }
 
-.ace_layer.ace_print-margin-layer {
+.ace_layer .ace_print-margin-layer {
    z-index: 2;
 }
 
-.ace_layer.ace_marker-layer {
+.ace_layer .ace_marker-layer {
    z-index: 1;
 } 
 .rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete {
