@@ -53,7 +53,7 @@
 	color: #FFEB95;
 }  
 .ace_constant.ace_language {
-	color: #82AAFF;
+	color: #F78C6C;
 }  
 .ace_constant.ace_numeric {
 	color: #F78C6C;
