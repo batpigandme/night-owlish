@@ -59,7 +59,7 @@
 	color: #F78C6C;
 }  
 .ace_constant.ace_character {
-	color: #82AAFF;
+	color: #d3423e;
 }  
 .ace_constant.ace_character.ace_escape {
 	color: #F78C6C;
@@ -725,11 +725,11 @@
   position: absolute;
 }
 
-.ace_layer .ace_print-margin-layer {
+.ace_layer.ace_print-margin-layer {
    z-index: 2;
 }
 
-.ace_layer .ace_marker-layer {
+.ace_layer.ace_marker-layer {
    z-index: 1;
 } 
 .rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete {
