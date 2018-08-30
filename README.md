@@ -14,7 +14,7 @@ A tmTheme adaptation† of [@sdras](https://github.com/sdras/)' [Night Owl VS Co
 
 #### Syntax highlighting in R
 
-![night owlish syntax highlighting](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rstudio-highlighting.png)
+![night owlish R syntax highlighting](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-r-script.png)
 
 #### Syntax highlight in RMarkdown
 
