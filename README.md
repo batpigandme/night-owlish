@@ -18,4 +18,4 @@ A tmTheme, Ace editor, and rstheme adaptation† of [@sdras](https://github.com/
 
 ![night-owlish syntax highlighting in RMarkdown](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rmd-screenshot.png)
 
-† _Full disclosure: I don't actually use TextMate — this was but a means to an end, as RStudio (which uses Ace) allows you to import tmThemes. If it looks terrible, and you have fixes please submit a PR! 🙏_
+† _Full disclosure: I don't actually use TextMate — this was but a means to an end, as RStudio (which uses Ace) allows you to import tmThemes. If it looks terrible, and you have fixes please submit a PR!_ 🙏
