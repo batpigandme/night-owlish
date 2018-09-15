@@ -26,7 +26,7 @@ After importing the tmTheme to RStudio, an `.rstheme` file will be generated in:
 /yourusername/.R/rstudio/themes
 └── night-owlish.rstheme 
 ```
-I recommend copying and pasting the `night-owlish.rstheme` file over that one, as it has been modified to enable scopes not otherwise imported by the tmTheme.  
+I recommend copying and pasting the [`night-owlish.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file over that one, as it has been modified to enable scopes not otherwise imported by the tmTheme.  
 
 🌌 Enjoy
 
