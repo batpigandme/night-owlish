@@ -20,6 +20,8 @@ A tmTheme, Ace editor, and rstheme adaptation† of [@sdras](https://github.com/
 
 ## Installation notes
 
+If you have an up-to-date daily build, you can directly import the [`.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file!
+
 After importing the tmTheme to RStudio, an `.rstheme` file will be generated in:
 
 ```
