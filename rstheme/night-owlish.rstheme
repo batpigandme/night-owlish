@@ -719,12 +719,6 @@
    z-index: 3;
 }
 
-.ace_marker-layer.ace_active-line {
-  background: #010E17;
-  z-index: 2;
-  position: absolute;
-}
-
 .ace_layer.ace_print-margin-layer {
    z-index: 2;
 }
@@ -743,3 +737,8 @@
    background: rgba(255, 255, 255, 0.15);
    border: none
 } 
+
+.ace_marker-layer .ace_active-line {
+  background: #010e1a;
+  position: absolute;
+}
