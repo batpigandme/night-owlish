@@ -151,6 +151,11 @@
 .ace_console_error {
   background-color: #2B3D4E;
 } 
+
+.ace_list, .ace_markup.ace_list, .ace_storage {
+	color: #c792ea;
+}
+
 .terminal {
   background-color: #011627;
   color: #d6deeb;
