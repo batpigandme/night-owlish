@@ -4,7 +4,7 @@ A tmTheme, Ace editor, and rstheme adaptation† of [@sdras](https://github.com/
 
 * Theme for [Ace](https://github.com/ajaxorg/ace) editor generated using `.tmtheme` import instructions found [here](https://github.com/ajaxorg/ace/wiki/Importing-.tmtheme-and-.tmlanguage-Files-into-Ace) (plus some manual modifications to [`.css`](https://github.com/batpigandme/night-owlish/blob/master/aceTheme/night_owl.css) file).  
 
-* Theme for [RStudio](https://www.rstudio.com/) IDE generated using the theme importer in [RStudio daily build](https://dailies.rstudio.com/), with modifications to [`.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file.
+* Theme for [RStudio](https://www.rstudio.com/) IDE generated using the theme importer in [RStudio preview](https://www.rstudio.com/products/rstudio/download/preview/) and [daily](https://dailies.rstudio.com/) builds, with modifications to [`.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file.
 
 ### Night owlish in RStudio 🌌
 
