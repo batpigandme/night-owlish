@@ -6,7 +6,10 @@ With the daily build, you can import the [tmTheme file](https://github.com/batpi
 
 ![Importing custom themes in RStudio](https://i.imgur.com/0801DLK.gif)
 
-However, I've added several improvements specific to the Ace and rstheme formats. In order to modify the imported rstheme file, you'll need to go to: **`/Users/<you>/.R/rstudio/themes`**.† 
+However, I've added several improvements specific to the Ace and rstheme formats. In order to modify the imported rstheme file, you'll need to go to:†
+
+- Mac: **`/Users/<you>/.R/rstudio/themes`**. 
+- Linux: **`/home/<you>/.R/rstudio/themes`**.
 
 There, you'll find the imported theme as `night-owlish.rstheme`. You can either copy and paste the contents, or the [`night-owlish.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file itself (the one in this repo) to enable the super-special-just-for-RStudio-beautified version. 💅 
 
@@ -17,4 +20,4 @@ There, you'll find the imported theme as `night-owlish.rstheme`. You can either 
 ---
 \* Unofficial guide, YMMV.
 
-† I only know how to do this on a Mac. Sorry! 😬
+† I don't know how to do this on Windows. Sorry! 😬
