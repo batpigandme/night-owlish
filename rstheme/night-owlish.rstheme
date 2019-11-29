@@ -39,6 +39,9 @@
 .ace_marker-layer .ace_selected-word {
 	border: 1px solid rgba(95, 126, 151, 0.47);
 }  
+.ace_invisible {
+	color: rgba(135, 156, 173, 0.4);
+}  
 .ace_fold {
 	background-color: #82AAFF;
 	border-color: #d6deeb;
