@@ -20,15 +20,16 @@ A tmTheme, Ace editor, and rstheme adaptation† of [@sdras](https://github.com/
 
 ## Installation notes
 
-If you have an up-to-date daily build, you can directly import the [`.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file!
+If you have RStudio ≥ 1.2, you can directly import the [`.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file in the RStudio IDE! 
 
-After importing the tmTheme to RStudio, an `.rstheme` file will be generated in:
+See [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/) for a pictorial step-by-step, or [Creating Custom Themes for RStudio](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html#sharing-a-theme) if you want to learn more.
 
+You can also download and apply the theme programmatically by running:
+```r
+rstudioapi::addTheme("https://raw.githubusercontent.com/batpigandme/night-owlish/master/rstheme/night-owlish.rstheme", apply = TRUE)
 ```
-/yourusername/.R/rstudio/themes
-└── night-owlish.rstheme 
-```
-I recommend copying and pasting the [`night-owlish.rstheme`](https://github.com/batpigandme/night-owlish/blob/master/rstheme/night-owlish.rstheme) file over that one, as it has been modified to enable scopes not otherwise imported by the tmTheme.  
+
+To install, but _not_ apply the theme, just switch the `apply` argument to `FALSE`.
 
 🌌 Enjoy
 
