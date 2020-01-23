@@ -59,7 +59,7 @@
 	color: #F78C6C;
 }  
 .ace_constant.ace_numeric {
-	color: #82AAFF;
+	color: #F78C6C;
 }  
 .ace_constant.ace_character {
 	color: #d3423e;
