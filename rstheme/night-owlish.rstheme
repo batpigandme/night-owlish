@@ -750,3 +750,7 @@
   background: #010e1a;
   position: absolute;
 }
+
+.rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-dark-grey .GEL-OVUBKV.GEL-OVUBIO div.GEL-OVUBFO .GEL-OVUBFS, .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-dark-grey .gwt-TabLayoutPanel {
+  background:  #010e17;
+}
